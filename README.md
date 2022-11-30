@@ -18,11 +18,20 @@ O programa vai exibir na tela os atributos da conta (Nº da conta, Tipo, Dono, S
 - [x] Só é possível depositar e sacar de uma conta existente
   
 ## Compilação 👨🏽‍💻
-### Preview 
+### Preview - Abertura da conta
 <p align="center">
-  <img alt="output" src=".github/preview.png">
+  <img alt="output - open count" src=".github/preview_opencount.PNG">
 </p>
 
+### Utilizando os Métodos Personalizados 
+<p align="center">
+  <img alt="output - codMetodos" src=".github/preview_codMetodos.PNG">
+</p>
+
+### Preview - Métodos Personalizados
+<p align="center">
+  <img alt="output - metodos perso" src=".github/preview_metodos.PNG">
+</p>
 
 ## Tecnologias 🛠
 
