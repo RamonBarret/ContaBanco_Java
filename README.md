@@ -34,7 +34,7 @@ O programa vai exibir na tela os atributos da conta (Nº da conta, Tipo, Dono, S
 </p>
 
 - [x] A Conta Corrente do <strong>Ramon</strong> foi fechada com sucesso!
-- [x] A Conta Poupança da <strong>Amanda</strong> possuí saldo de 💲550 após as ações com os Métodos Persolanizados
+- [x] A Conta Poupança da <strong>Amanda</strong> possuí saldo de💲550 após as ações com os Métodos Persolanizados
 
 
 ## Tecnologias 🛠
